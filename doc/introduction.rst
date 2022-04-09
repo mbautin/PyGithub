@@ -76,7 +76,8 @@ Projects using PyGithub
 * https://github.com/plus3it/satsuki - Automate GitHub releases and uploading binary release assets
 * `check-in <https://github.com/webknjaz/check-in>`_ — Python CLI distribution that allows user to use GitHub Checks API as a bot.
 * https://github.com/hasii2011/gittodoistclone - Convert GitHub issues to Todoist tasks
- 
+* https://github.com/yugabyte/yugabyte-db - a distributed database -- uses PyGithub in its build system to publish and find binary packages of third-party dependencies as GitHub releases.
+
 They talk about PyGithub
 ------------------------
 
